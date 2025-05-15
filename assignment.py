@@ -2,6 +2,7 @@ def read_file(file_path: str) -> str:
     """
     Reads the contents of a file and returns it as a string.
     """
+    return 0
     raise NotImplementedError()
 
 
